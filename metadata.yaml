@@ -1,0 +1,43 @@
+_repo: Judithtreurspel-in-vijf-bedrijven_34638
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suchtelen, Nico van
+    aliases:
+    - Suchtelen, Nicolaas Johannes van
+    - Van Suchtelen, Nico
+    birthdate: 1878
+    deathdate: 1949
+    gutenberg_agent_id: '33087'
+    url: http://www.gutenberg.org/2009/agents/33087
+covers:
+- cover_type: archival
+  image_path: 34638-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hebbel, Friedrich
+    aliases:
+    - Hebbel, C. F. (Christian Friedrich)
+    - Hebbel, F. (Friedrich)
+    - Hebbel, Christian Friedrich
+    birthdate: 1813
+    deathdate: 1863
+    gutenberg_agent_id: '1061'
+    url: http://www.gutenberg.org/2009/agents/1061
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Friedrich_Hebbel
+    - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
+description: ''
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34638'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judith (Biblical figure) -- Drama'
+- !lcc 'PT'
+title: 'Judith: treurspel in vijf bedrijven'
+url: http://www.gutenberg.org/ebooks/34638
