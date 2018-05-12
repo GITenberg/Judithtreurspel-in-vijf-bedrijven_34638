@@ -28,6 +28,8 @@ creator:
     - http://de.wikipedia.org/wiki/Friedrich_Hebbel
     - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34638#Judithtreurspel-in-vijf-bedrijven
 gutenberg_issued: '2010-12-13'
 gutenberg_type: Text
 identifiers:
